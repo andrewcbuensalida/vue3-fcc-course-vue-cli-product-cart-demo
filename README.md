@@ -1,3 +1,19 @@
+https://www.youtube.com/watch?v=FXpIoQ_rT_c&t=183s
+
+Install vue
+  npm i -g @vue/cli
+
+To create,
+  vue create hello-world
+
+To start development
+  npm run serve
+
+
+
+
+
+=============================================
 # product-and-cart
 
 ## Project setup

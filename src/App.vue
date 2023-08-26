@@ -19,6 +19,7 @@
   </header>
   <router-view :inventory="inventory" :addToCart="addToCart" />
 
+  <!-- :toggle is the prop in the child and is mapped to showSidebar in the parent -->
   <Sidebar
     v-if="showSidebar"
     :toggle="toggleSidebar"

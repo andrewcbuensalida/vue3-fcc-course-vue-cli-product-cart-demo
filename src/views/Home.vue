@@ -29,7 +29,7 @@
 </template>
 
 <script>
-import ProductCard from '@/components/ProductCard.vue'
+import ProductCard from '@/components/ProductCard.vue' // @ is shortcut for src folder
 
 export default {
   name: 'Home',
